@@ -15,7 +15,15 @@ const {
 } = require("./src/helpers/userSetup");
 
 const Image = require("@11ty/eleventy-img");
-function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
+async function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
+  if (src.endsWith(".gif")) {
+    // Just return a simple <img> tag metadata for GIFs
+    return {
+      webp: [{ url: src }],
+      jpeg: [{ url: src }]
+    };
+  }
+  
   let options = {
     widths: widths,
     formats: ["webp", "jpeg"],
@@ -24,7 +32,7 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   };
 
   // generate images, while this is async we don’t wait
-  Image(src, options);
+  await Image(src, options);
   let metadata = Image.statsSync(src, options);
   return metadata;
 }
