@@ -4,8 +4,8 @@
 
 # Dinosaur Animation (Blender)
 
-| ![Description](/img/user/Assets/DinoAnimationBlender.gif) | ![Assets/DinoWakeUp300.gif](/img/user/Assets/DinoWakeUp300.gif) |
-| ------------------------------------------------- | ----------------------------- |
+| ![./Assets/DinoAnimationBlender.gif](/img/user/Assets/DinoAnimationBlender.gif) | ![Assets/DinoWakeUp300.gif](/img/user/Assets/DinoWakeUp300.gif) |
+| -------------------------------------- | ----------------------------- |
 
 
 One of the requirements for this project was to have expressive animations. My task was to create a seamless workflow . I had prior experience modelling and rigging characters in Blender, so I applied it to this project through the following steps:
