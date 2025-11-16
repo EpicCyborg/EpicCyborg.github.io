@@ -1,7 +1,7 @@
 [
 {
 		"title": "Animatronic Dinosaur",
-		"date":"Sun Nov 16 2025 10:40:28 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Nov 16 2025 10:40:53 GMT+0000 (Coordinated Universal Time)",
 		"url":"/animatronic-dinosaur/",
 		"content": "Dinosaur Animation (Blender)\n\nOne of the requirements for this project was to have expressive animations. My task was to create a seamless workflow . I had prior experience modelling and rigging characters in Blender, so I applied it to this project through the following steps:\n\nExport .fbx files of the mechanisms from CAD software (Fusion 360)\nImport the entire model into Blender\nRigging: Align armature joints with those on the model\nAdd inverse kinematics and ring objects that control orientation of head, eyes, and tail\nExport servo motor angles into C++ arrays using plugin\n\nUsing the software developed by other members of the team, this animation was able to be translated quickly into the actual model.\nCAD (Fusion 360)\n\n[!tip] Laser-Cut Body Frame Design",
 		"tags": [ "note"]
@@ -9,7 +9,7 @@
 
 {
 		"title": "Desk Mount Phone Charger",
-		"date":"Sun Nov 16 2025 10:40:28 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Nov 16 2025 10:40:53 GMT+0000 (Coordinated Universal Time)",
 		"url":"/desk-mount-phone-charger/",
 		"content": "I designed, 3D printed and laser cut a working wireless phone charger, meeting the following requirements:\n\nHolds my phone securely\nPhone can easily be placed and removed\nCharges my phone wirelessly\nMinimises footprint on top of desk or other surfaces\n\nThe solution I came up with was a drawer that could slide out and hold the phone at a 45° angle, mounting under my desk to minimise footprint.\n\n[!info] Desk Mount Phone Charger Assembly\n\nDesign Process",
 		"tags": [ "note"]
@@ -17,7 +17,7 @@
 
 {
 		"title": "Home Page",
-		"date":"Sun Nov 16 2025 10:40:28 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sun Nov 16 2025 10:40:53 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "Introduction\nThis web-based portfolio is a record of my individual and team-based engineering projects throughout the years.\nHighlights\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/animatronic-dinosaur/\">Animatronic Dinosaur</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">VEX Robotics Competition</a>\n\nStudent Team Projects\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/animatronic-dinosaur/\">Animatronics - Melbourne Space Program</a>\nPersonal Projects",
 		"tags": [ "note","gardenEntry"]
