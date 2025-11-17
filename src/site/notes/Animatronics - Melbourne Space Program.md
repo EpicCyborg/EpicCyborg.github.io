@@ -9,6 +9,7 @@
 # Dinosaur Animation (Blender)
 | ![Assets/DinoAnimationBlender300.gif](/img/user/Assets/DinoAnimationBlender300.gif) | ![Assets/DinoWakeUp300.gif](/img/user/Assets/DinoWakeUp300.gif) |
 | --------------------------------------- | ----------------------------- |
+
 *Wake-up animation of dinosaur rig on blender (left), animation execution on dinosaur (right)*
 One of the requirements for the animatronic was to have expressive animations. My task was to create a seamless and efficient workflow for many animations. 
 >[!info] Process
@@ -24,6 +25,7 @@ Using the software developed by other members of the team, animations were able 
 
 | ![Assets/DinoBody.gif](/img/user/Assets/DinoBody.gif) | ![Assets/DinoBodyFab.webp](/img/user/Assets/DinoBodyFab.webp) | ![Assets/DinoTailCAD300.webp](/img/user/Assets/DinoTailCAD300.webp) |
 | ------------------------ | ---------------------------- | ------------------------------- |
+
 *Dinosaur body and tail development using sculpture as reference*
 I was responsible for designing the structural parts for the tail, body and head in Fusion 360. Laser cutting was the primary fabrication method to cut down on fabrication time and cost for rapid prototyping. Mounting holes were placed so other parts, such as the 3D-printed neck mechanism. All geometry used the 3D model made by the team sculptor as a reference.
 3D-printed shells were made to capture the organic geometry of the dinosaur, such as the belly above, or parts for the head.
