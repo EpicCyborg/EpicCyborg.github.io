@@ -1,7 +1,7 @@
 [
 {
 		"title": "Animatronics - Melbourne Space Program",
-		"date":"Mon Nov 17 2025 06:39:16 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Nov 17 2025 06:39:54 GMT+0000 (Coordinated Universal Time)",
 		"url":"/animatronics-melbourne-space-program/",
 		"content": "Dinosaur Animation (Blender)\n\nWake-up animation of dinosaur rig on blender (left), animation execution on dinosaur (right)\nOne of the requirements for the animatronic was to have expressive animations. My task was to create a seamless and efficient workflow for many animations.\n\n[!info] Process\n\nExport .fbx files of the mechanisms from CAD software (Fusion 360)\nImport the entire model into Blender\nRigging: Align armature joints with those on the model\nAdd inverse kinematics and ring objects that control orientation of head, eyes, and tail\nExport servo motor angles into C++ arrays using plugin\n\nUsing the software developed by other members of the team, animations were able to be translated quickly into the actual model.\nCAD (Fusion 360)\n\nDinosaur body and tail development using sculpture as reference\nI was responsible for designing the structural parts for the tail, body and head in Fusion 360. Laser cutting was the primary fabrication method to cut down on fabrication time and cost for rapid prototyping. Mounting holes were placed so other parts, such as the 3D-printed neck mechanism. All geometry used the 3D model made by the team sculptor as a reference.\n3D-printed shells were made to capture the organic geometry of the dinosaur, such as the belly above, or parts for the head.\n\nDinosaur head development from original sculpture\nAnimatronic Quokka\nFor the second animatronic, the quokka, I was the team lead in charge of administrative tasks for project management such as team meetings, organising events and inventory management. I also designed some mechanisms, such as this print-in-place finger:\n\nQuokka finger mechanism CAD\nThe following was the team's resulting head mechanism prototype:\n\nQuokka head prototype",
 		"tags": [ "note"]
@@ -9,7 +9,7 @@
 
 {
 		"title": "Home Page",
-		"date":"Mon Nov 17 2025 06:39:16 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Nov 17 2025 06:39:54 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "Introduction\nThis web-based portfolio is a record of my individual and team-based engineering projects throughout the years.\nHighlights\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/animatronics-melbourne-space-program/\">Animatronics - Melbourne Space Program</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">VEX Robotics Competition</a>\n\nStudent Team Projects\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/animatronics-melbourne-space-program/\">Animatronics - Melbourne Space Program</a>\nPersonal Projects",
 		"tags": [ "note","gardenEntry"]
