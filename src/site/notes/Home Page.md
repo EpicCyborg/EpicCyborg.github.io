@@ -7,8 +7,8 @@ This web-based portfolio is a record of my individual and team-based engineering
 
 # Highlights
 
-| [[Animatronics - Melbourne Space Program\|Animatronics - Melbourne Space Program]]<br>![Assets/DinoFinal.webp](/img/user/Assets/DinoFinal.webp) | [[VEX Robotics Competition - EMU5\|VEX Robotics Competition - EMU5]]<br>![Robot](Assets/VEX_Robot300.png) |     |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | --- |
+| [[Animatronics - Melbourne Space Program\|Animatronics - Melbourne Space Program]]<br>![Assets/DinoFinal.webp](/img/user/Assets/DinoFinal.webp) | [[VEX Robotics Competition - EMU5\|VEX Robotics Competition - EMU5]]<br>![Assets/VEX_Robot300.png](/img/user/Assets/VEX_Robot300.png) |     |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------- | --- |
 
 # Student Team Projects
 [[Animatronics - Melbourne Space Program\|Animatronics - Melbourne Space Program]]

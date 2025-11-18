@@ -3,11 +3,14 @@
 ---
 
 <iframe src="https://drive.google.com/file/d/1cfxwr6lNmaejW4-UDuXCwfzXaNF5_f3I/preview" width="640" height="480" allow="autoplay"></iframe>
+
 For the VEX season 2022-2023 game "Spin Up", team EMU5 built a catapult robot to score 3 discs at a time. I designed custom components for 2D CNC milling and 3D printing in SOLIDWORKS and Fusion 360 alongside assemblies and technical drawings.
+
 # 2D Components
 ![Assets/VEX_PolycarbonateChassis.png](/img/user/Assets/VEX_PolycarbonateChassis.png)
 *Polycarbonate chassis for reinforcement on C-channels*
 This was my first exposure to CAD in Fusion 360 and SOLIDWORKS, contributing to a disc shooting robot with remote-control and autonomous capability. I started contributing with 2D designs for custom parts fabricated using CNC milling on polycarbonate and aluminium. I learned to work closely with the more experienced builders on the team to understand the CAD thought process, then move on to 3D components. [[#Technical Drawings|Technical drawings]] were made alongside the components as part of the project log book.
+
 # 3D Printed Components
 To optimise for 3D printing, I took into account print orientation, overhang angles, and plate contact area. Examples were gears and the tracking wheel mount that used springs to keep the tracking wheel on the ground at all times.
 
@@ -37,6 +40,7 @@ I was tasked with creating the SOLIDWORKS assemblies and subassemblies since thi
 The disc intake module on the left was assembled independently based off physical prototypes,  and combined to the main chassis assembly on the right.
 
 Through this experience, I learned how to make assemblies in SOLIDWORKS using "mates", and that each component required multiple mates to be fixed in place. The C-channels at right angles would require three coincident mates, while the gears and wheels on axles would only require one concentric and one coincident mate.
+
 # Calculations for Pathfinding
 $$
 \begin{align}
