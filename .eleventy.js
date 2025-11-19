@@ -17,10 +17,8 @@ const {
 const Image = require("@11ty/eleventy-img");
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   if (src.endsWith(".gif")) {
-    // Just return a simple <img> tag metadata for GIFs
     return {
-      webp: [{ url: src }],
-      jpeg: [{ url: src }]
+      gifOnly: true, url: src
     };
   }
   
@@ -418,6 +416,15 @@ module.exports = function (eleventyConfig) {
   });
 
   function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
+    if (meta.gifOnly) {
+      imageTag.tagName = "img";
+      imageTag.setAttribute("src", meta.url);
+      imageTag.setAttribute("alt",alt);
+      if (cls) imageTag.setAttribute("class",cls);
+      if (width) imageTag.setAttribute("width",width);
+      return;
+    }
+    
     imageTag.tagName = "picture";
     let html = `<source
       media="(max-width:480px)"
