@@ -9,13 +9,14 @@
 | ![assets/dinoanimationblender300.gif](/img/user/assets/dinoanimationblender300.gif) | ![assets/dinowakeup300.gif](/img/user/assets/dinowakeup300.gif) |
 | --------------------------------------- | ----------------------------- |
 
-One of the requirements for the animatronic was to have expressive animations. My task was to create a seamless and efficient workflow for many animations. 
+One of the requirements for the animatronic was to have expressive animations. My task was to create a seamless and efficient workflow, so I did the following: 
 >[!info] Process
 >1. Export .fbx files of the mechanisms from CAD software (Fusion 360)
->2. Import the entire model into Blender
->3. Rigging: Align armature joints with those on the model
->4. Add inverse kinematics and ring objects that control orientation of head, eyes, and tail
->5. Export servo motor angles into C++ arrays using plugin 
+>2. Import the models into Blender
+>3. Rigging: Align armature joints with those on the mechanisms (pushrods, servo motors)
+>4. Add controllers for orientation of head, eyes, eyelids and tail, moving servo motors via inverse kinematics
+>5. Create animations by moving controllers and adding keyframes
+>6. Export servo motor angles into C++ arrays using python plugin 
 
 Using the software developed by other members of the team, animations were able to be translated quickly into the physical prototype.
 
