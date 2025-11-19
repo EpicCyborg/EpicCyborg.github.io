@@ -6,7 +6,7 @@
 | ![assets/DinoFinal.webp](/img/user/assets/DinoFinal.webp)<br>![assets/dinoskin.gif](/img/user/assets/dinoskin.gif) | ![assets/dinoani.gif](/img/user/assets/dinoani.gif)<br>![assets/dinonod.gif](/img/user/assets/dinonod.gif) |
 | ------------------------------------------------------ | -------------------------------------------------- |
 # Dinosaur Animation (Blender)
-| ![Assets/DinoAnimationBlender300.gif](/img/user/assets/dinoanimationblender300.gif) | ![Assets/DinoWakeUp300.gif](/img/user/assets/dinowakeup300.gif) |
+| ![assets/dinoanimationblender300.gif](/img/user/assets/dinoanimationblender300.gif) | ![assets/dinowakeup300.gif](/img/user/assets/dinowakeup300.gif) |
 | --------------------------------------- | ----------------------------- |
 
 One of the requirements for the animatronic was to have expressive animations. My task was to create a seamless and efficient workflow for many animations. 
