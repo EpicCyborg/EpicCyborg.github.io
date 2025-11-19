@@ -418,7 +418,7 @@ module.exports = function (eleventyConfig) {
   function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
     if (meta.gifOnly) {
       imageTag.tagName = "img";
-      imageTag.setAttribute("src", meta.url);
+      imageTag.setAttribute("src", src);
       imageTag.setAttribute("alt",alt);
       if (cls) imageTag.setAttribute("class",cls);
       if (width) imageTag.setAttribute("width",width);
