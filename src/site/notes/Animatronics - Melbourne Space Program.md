@@ -31,11 +31,11 @@ I was responsible for designing the structural parts for the tail, body and head
 | ![assets/dinohead.gif](/img/user/assets/dinohead.gif) | ![assets/DinoHead.webp](/img/user/assets/DinoHead.webp) |
 | ------------------------ | ------------------------- |
 # Animatronic Quokka
-For the second animatronic, the quokka, I was animatronics team lead, in charge of administrative tasks for project management such as team meetings, organising events and inventory management. I ensured that all work was integrated between software, electrical and hardware subsystems.
+For the second animatronic, the quokka, I was Team Lead, in charge of administrative tasks such as team meetings, organising events and inventory management. I ensured that all work was integrated between software, electrical and hardware subsystems.
 
 ![assets/blockdiagram.webp](/img/user/assets/blockdiagram.webp)
 
-I mentored team members in technical skills, while continuing technical work in 3D modelling, mechanical design, 3D printing and circuit design.
+I mentored team members in technical skills and to help them integrate the components above, while continuing technical work in 3D modelling, mechanical design, 3D printing and circuit design.
 
 ![assets/QuokkaHeadBlender.webp](/img/user/assets/QuokkaHeadBlender.webp)
 *Early quokka head 3D model in Blender*
