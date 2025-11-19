@@ -17,7 +17,7 @@ One of the requirements for the animatronic was to have expressive animations. M
 >4. Add inverse kinematics and ring objects that control orientation of head, eyes, and tail
 >5. Export servo motor angles into C++ arrays using plugin 
 
-Using the software developed by other members of the team, animations were able to be translated quickly into the actual model.
+Using the software developed by other members of the team, animations were able to be translated quickly into the physical prototype.
 
 # CAD (Fusion 360)
 
