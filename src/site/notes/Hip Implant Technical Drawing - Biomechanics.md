@@ -4,7 +4,7 @@
 
 For the Biomechanics subject, I created CAD for hip implant, as well as failure behaviour. 
 ![assets/FemoralStem1.png](/img/user/assets/FemoralStem1.png)
-![Assets/AcetabularCup.png](/img/user/assets/AcetabularCup.png)
+![assets/AcetabularCup.png](/img/user/assets/AcetabularCup.png)
 *Technical drawings for femoral stem and acetabular cup for hip implant*
 
 # Failure Behaviour of Implant

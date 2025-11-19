@@ -3,8 +3,8 @@
 ---
 
 
-| ![assets/DinoFinal.webp](/img/user/assets/DinoFinal.webp)<br>![assets/dinoskin.gif](/img/user/assets/dinoskin.gif) | ![Dinosaur Animation](assets/dinoani.gif)<br>![assets/dinonod.gif](/img/user/assets/dinonod.gif) |
-| ------------------------------------------------------ | -------------------------------------------------------------------- |
+| ![assets/DinoFinal.webp](/img/user/assets/DinoFinal.webp)<br>![assets/dinoskin.gif](/img/user/assets/dinoskin.gif) | ![assets/dinoani.gif](/img/user/assets/dinoani.gif)<br>![assets/dinonod.gif](/img/user/assets/dinonod.gif) |
+| ------------------------------------------------------ | -------------------------------------------------- |
 # Dinosaur Animation (Blender)
 | ![assets/dinoanimationblender300.gif](/img/user/assets/dinoanimationblender300.gif) | ![assets/dinowakeup300.gif](/img/user/assets/dinowakeup300.gif) |
 | --------------------------------------- | ----------------------------- |
@@ -30,9 +30,13 @@ I was responsible for designing the structural parts for the tail, body and head
 | ![assets/dinohead.gif](/img/user/assets/dinohead.gif) | ![assets/DinoHead.webp](/img/user/assets/DinoHead.webp) |
 | ------------------------ | ------------------------- |
 # Animatronic Quokka
-For the second animatronic, the quokka, I was animatronics team lead, in charge of administrative tasks for project management such as team meetings, organising events and inventory management. I also mentored team members in technical skills, while continuing technical work in 3D modelling, mechanical design, 3D printing and circuit design.
+For the second animatronic, the quokka, I was animatronics team lead, in charge of administrative tasks for project management such as team meetings, organising events and inventory management. I ensured that all work was integrated between software, electrical and hardware subsystems.
 
-![Assets/QuokkaHeadBlender.webp](/img/user/assets/QuokkaHeadBlender.webp)
+![assets/blockdiagram.webp](/img/user/assets/blockdiagram.webp)
+
+I mentored team members in technical skills, while continuing technical work in 3D modelling, mechanical design, 3D printing and circuit design.
+
+![assets/QuokkaHeadBlender.webp](/img/user/assets/QuokkaHeadBlender.webp)
 *Early quokka head 3D model in Blender*
 
 ![assets/quokkafinger.gif](/img/user/assets/quokkafinger.gif)

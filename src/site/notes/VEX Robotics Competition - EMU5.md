@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/vex-robotics-competition-emu-5/"}
 ---
 
-<iframe src="https://drive.google.com/file/d/1cfxwr6lNmaejW4-UDuXCwfzXaNF5_f3I/preview" width="640" height="480" allow="autoplay"></iframe>
+<p><iframe src="https://drive.google.com/file/d/1cfxwr6lNmaejW4-UDuXCwfzXaNF5_f3I/preview"   allow="autoplay" frameborder="0" allowfullscreen></iframe></p>
 
 For the VEX season 2022-2023 game "Spin Up", team EMU5 built a catapult robot to score 3 discs at a time. I designed custom components for 2D CNC milling and 3D printing in SOLIDWORKS and Fusion 360 alongside assemblies and technical drawings.
 
