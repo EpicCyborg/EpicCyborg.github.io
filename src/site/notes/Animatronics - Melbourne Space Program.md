@@ -9,7 +9,7 @@
 | ![assets/dinoanimationblender300.gif](/img/user/assets/dinoanimationblender300.gif) | ![assets/dinowakeup300.gif](/img/user/assets/dinowakeup300.gif) |
 | --------------------------------------- | ----------------------------- |
 
-One of the requirements for the animatronic was to have expressive animations. My task was to create a seamless and efficient workflow, so I did the following: 
+One of the requirements for the animatronic was to have expressive animations. My task was to create a seamless and efficient workflow. This was achieved with the following: 
 >[!info] Process
 >1. Export .fbx files of the mechanisms from CAD software (Fusion 360)
 >2. Import the models into Blender
@@ -31,7 +31,7 @@ I was responsible for designing the structural parts for the tail, body and head
 | ![assets/dinohead.gif](/img/user/assets/dinohead.gif) | ![assets/DinoHead.webp](/img/user/assets/DinoHead.webp) |
 | ------------------------ | ------------------------- |
 # Animatronic Quokka
-For the second animatronic, the quokka, I was Team Lead, in charge of administrative tasks such as team meetings, organising events and inventory management. I ensured that all work was integrated between software, electrical and hardware subsystems.
+For the second animatronic, the quokka, I was Team Lead, in charge of administrative tasks such as team meetings, organising events and inventory management.  I ensured that all work was integrated between software, electrical and hardware subsystems.
 
 ![assets/blockdiagram.webp](/img/user/assets/blockdiagram.webp)
 

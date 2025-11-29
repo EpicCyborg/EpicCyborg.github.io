@@ -48,7 +48,7 @@ a_{c} &= \sqrt{ (X''(t))^{2} + (Y''(t))^{2} } \\
 F_{c} &= m\sqrt{ (X''(t))^{2} + (Y''(t))^{2} }
 \end{align}
 $$
-I also assisted in calculations and implementation for the pathfinding algorithm, which used quintic spline. Centripetal force $F_{c}$ needed to be minimised in the autonomous pathfinding algorithm to reduce error. The robot's odometry used cartesian coordinates, and was able to determine this by taking double derivatives of $x$ and $y$ coordinates. $F_c$ would be minimised for the pathfinding algorithm. 
+I also assisted in calculations and implementation for the pathfinding algorithm, which used quintic spline. Centripetal force $F_{c}$ needed to be minimised in the autonomous pathfinding algorithm to reduce error. The robot's odometry used cartesian coordinates, and was able to determine this by taking double derivatives of $x$ and $y$ coordinates. $F_c$ would be minimised for the pathfinding algorithm while balancing path distance. 
 
 # Technical Drawings
 ![assets/VEXCatapultArm.webp](/img/user/assets/VEXCatapultArm.webp)
